@@ -1,1 +1,1 @@
-# Amit gir's tic tac toe game
+# sejal's tic tac toe game
