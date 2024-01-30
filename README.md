@@ -1,1 +1,1 @@
-# sejal's tic tac toe game
+# Sejal's Tic Tac Toe game
